@@ -1,12 +1,4 @@
-# Unit 5 | Assignment - The Power of Plots
-
-## Background
-
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to some real-world situations. For this assignment, you'll need to complete **1 of 2** Data Challenges. As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
-
-## Pymaceuticals Inc
+## Option 2: Pymaceuticals Inc
 
 ![Laboratory](Images/Laboratory.jpg)
 
@@ -49,5 +41,3 @@ As final considerations:
 * Get help when you need it! There is never any shame in asking. But as always, ask a _specific_ question. You'll never get a great answer to: "I'm lost." Good luck!
 
 ## Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
